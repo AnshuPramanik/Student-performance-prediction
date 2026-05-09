@@ -1,5 +1,5 @@
 # Student Performance Prediction System
-contributers - Rohit_Narang, Ravi Shankar
+contributers - Anshu_pramanik, Rohit_Narang, Ravi Shankar, Mehul_mathur
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
@@ -8,8 +8,6 @@ contributers - Rohit_Narang, Ravi Shankar
 ![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
 
 **An intelligent machine learning system to predict student academic performance based on multiple behavioral and contextual factors.**
-
-[Features](#features) • [Quick Start](#quick-start) • [Installation](#installation) • [Usage](#usage) • [Project Structure](#project-structure)
 
 </div>
 
@@ -475,11 +473,6 @@ Ensure all dependencies installed: pip install -r requirements.txt
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [Machine Learning Guide](https://developers.google.com/machine-learning)
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -500,13 +493,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Contributors and reviewers
 
 ---
-
-## 📞 Support
-
-For questions or issues, please:
-- 📧 Open an [Issue](https://github.com/AnshuPramanik/student-performance-prediction/issues)
-- 💬 Start a [Discussion](https://github.com/AnshuPramanik/student-performance-prediction/discussions)
-- 📝 Check [Existing Issues](https://github.com/AnshuPramanik/student-performance-prediction/issues)
 
 ---
 
